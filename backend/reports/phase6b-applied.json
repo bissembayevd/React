@@ -1,0 +1,915 @@
+{
+  "version": "phase6b-content-v1",
+  "snapshotDate": "2026-10-19",
+  "counts": {
+    "players": 151,
+    "teams": 24,
+    "news": 30,
+    "matches": 40,
+    "tournaments": 12
+  },
+  "databaseFingerprint": "377074cf8c7dc44099decd739f83046b5d3826c859d3db67a332da0cfbe7cc50",
+  "updates": [
+    {
+      "table": "players",
+      "id": "player-001",
+      "fields": {
+        "nickname": {
+          "before": "Orbit01",
+          "after": "Aleksib"
+        },
+        "firstName": {
+          "before": "Alex",
+          "after": "Aleksi"
+        },
+        "lastName": {
+          "before": "Reed",
+          "after": "Virolainen"
+        },
+        "nationality": {
+          "before": "Kazakhstan",
+          "after": "Finland"
+        },
+        "role": {
+          "before": "AWPer",
+          "after": "IGL"
+        },
+        "image": {
+          "before": "/images/player-placeholder.svg",
+          "after": "/images/photos/aleksib-2019.jpg"
+        },
+        "nickname_key": {
+          "before": "orbit01",
+          "after": "aleksib"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-002",
+      "fields": {
+        "nickname": {
+          "before": "Vex02",
+          "after": "b1t"
+        },
+        "firstName": {
+          "before": "Daniel",
+          "after": "Valerii"
+        },
+        "lastName": {
+          "before": "Silva",
+          "after": "Vakhovskyi"
+        },
+        "nationality": {
+          "before": "Brazil",
+          "after": "Ukraine"
+        },
+        "nickname_key": {
+          "before": "vex02",
+          "after": "b1t"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-003",
+      "fields": {
+        "nickname": {
+          "before": "Echo03",
+          "after": "iM"
+        },
+        "firstName": {
+          "before": "Lucas",
+          "after": "Mihai"
+        },
+        "lastName": {
+          "before": "Berg",
+          "after": "Ivan"
+        },
+        "nationality": {
+          "before": "Sweden",
+          "after": "Romania"
+        },
+        "role": {
+          "before": "Entry Fragger",
+          "after": "Rifler"
+        },
+        "nickname_key": {
+          "before": "echo03",
+          "after": "im"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-004",
+      "fields": {
+        "nickname": {
+          "before": "Pulse04",
+          "after": "w0nderful"
+        },
+        "firstName": {
+          "before": "Amir",
+          "after": "Ihor"
+        },
+        "lastName": {
+          "before": "Khan",
+          "after": "Zhdanov"
+        },
+        "nationality": {
+          "before": "Poland",
+          "after": "Ukraine"
+        },
+        "role": {
+          "before": "Support",
+          "after": "AWPer"
+        },
+        "nickname_key": {
+          "before": "pulse04",
+          "after": "w0nderful"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-121",
+      "fields": {
+        "nickname": {
+          "before": "Orbit121",
+          "after": "Makazze"
+        },
+        "firstName": {
+          "before": "Alex",
+          "after": "Drin"
+        },
+        "lastName": {
+          "before": "Reed",
+          "after": "Shaqiri"
+        },
+        "nationality": {
+          "before": "Kazakhstan",
+          "after": "Kosovo"
+        },
+        "role": {
+          "before": "IGL",
+          "after": "Entry Fragger"
+        },
+        "nickname_key": {
+          "before": "orbit121",
+          "after": "makazze"
+        }
+      }
+    },
+    {
+      "table": "teams",
+      "id": "team-01",
+      "fields": {
+        "description": {
+          "before": "Natus Vincere is featured in CS2 ARENA's fictional competition. This five-player demo roster and ranking do not represent the real team. The country/region is a demo organization label, not the players' nationality.",
+          "after": "Verified roster snapshot: 2026-10-19. Source: https://navi.gg/en/teams/cs2. Rankings, ages, ratings and competition data remain fictional demo values. This is a dated snapshot, not a live roster feed."
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-005",
+      "fields": {
+        "nickname": {
+          "before": "Frost05",
+          "after": "apEX"
+        },
+        "firstName": {
+          "before": "Leo",
+          "after": "Dan"
+        },
+        "lastName": {
+          "before": "Novak",
+          "after": "Madesclaire"
+        },
+        "nationality": {
+          "before": "Canada",
+          "after": "France"
+        },
+        "role": {
+          "before": "AWPer",
+          "after": "IGL"
+        },
+        "image": {
+          "before": "/images/player-placeholder.svg",
+          "after": "/images/photos/apex-2019.jpg"
+        },
+        "nickname_key": {
+          "before": "frost05",
+          "after": "apex"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-006",
+      "fields": {
+        "nickname": {
+          "before": "Cipher06",
+          "after": "ZywOo"
+        },
+        "firstName": {
+          "before": "Milan",
+          "after": "Mathieu"
+        },
+        "lastName": {
+          "before": "Costa",
+          "after": "Herbaut"
+        },
+        "nationality": {
+          "before": "Denmark",
+          "after": "France"
+        },
+        "role": {
+          "before": "Rifler",
+          "after": "AWPer"
+        },
+        "image": {
+          "before": "/images/player-placeholder.svg",
+          "after": "/images/photos/zywoo-2019.jpg"
+        },
+        "nickname_key": {
+          "before": "cipher06",
+          "after": "zywoo"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-007",
+      "fields": {
+        "nickname": {
+          "before": "Nova07",
+          "after": "flameZ"
+        },
+        "firstName": {
+          "before": "Oscar",
+          "after": "Shahar"
+        },
+        "lastName": {
+          "before": "Park",
+          "after": "Shushan"
+        },
+        "nationality": {
+          "before": "France",
+          "after": "Israel"
+        },
+        "nickname_key": {
+          "before": "nova07",
+          "after": "flamez"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-008",
+      "fields": {
+        "nickname": {
+          "before": "Rift08",
+          "after": "mezii"
+        },
+        "firstName": {
+          "before": "Elias",
+          "after": "William"
+        },
+        "lastName": {
+          "before": "Weber",
+          "after": "Merriman"
+        },
+        "nationality": {
+          "before": "Germany",
+          "after": "United Kingdom"
+        },
+        "nickname_key": {
+          "before": "rift08",
+          "after": "mezii"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-122",
+      "fields": {
+        "nickname": {
+          "before": "Vex122",
+          "after": "ropz"
+        },
+        "firstName": {
+          "before": "Daniel",
+          "after": "Robin"
+        },
+        "lastName": {
+          "before": "Silva",
+          "after": "Kool"
+        },
+        "nationality": {
+          "before": "Brazil",
+          "after": "Estonia"
+        },
+        "image": {
+          "before": "/images/player-placeholder.svg",
+          "after": "/images/photos/ropz-2023.jpg"
+        },
+        "nickname_key": {
+          "before": "vex122",
+          "after": "ropz"
+        }
+      }
+    },
+    {
+      "table": "teams",
+      "id": "team-02",
+      "fields": {
+        "description": {
+          "before": "Vitality is featured in CS2 ARENA's fictional competition. This five-player demo roster and ranking do not represent the real team. The country/region is a demo organization label, not the players' nationality.",
+          "after": "Verified roster snapshot: 2026-10-19. Source: https://vitality.gg/pages/teams/counter-strike-2. Rankings, ages, ratings and competition data remain fictional demo values. This is a dated snapshot, not a live roster feed."
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-049",
+      "fields": {
+        "nickname": {
+          "before": "Orbit49",
+          "after": "gr1ks"
+        },
+        "firstName": {
+          "before": "Alex",
+          "after": "Gleb"
+        },
+        "lastName": {
+          "before": "Jensen",
+          "after": "Gazin"
+        },
+        "nationality": {
+          "before": "Kazakhstan",
+          "after": "Belarus"
+        },
+        "nickname_key": {
+          "before": "orbit49",
+          "after": "gr1ks"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-050",
+      "fields": {
+        "nickname": {
+          "before": "Vex50",
+          "after": "JDC"
+        },
+        "firstName": {
+          "before": "Daniel",
+          "after": "Jon"
+        },
+        "lastName": {
+          "before": "Ali",
+          "after": "de Castro"
+        },
+        "nationality": {
+          "before": "Brazil",
+          "after": "Germany"
+        },
+        "nickname_key": {
+          "before": "vex50",
+          "after": "jdc"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-051",
+      "fields": {
+        "nickname": {
+          "before": "Echo51",
+          "after": "tabseN"
+        },
+        "firstName": {
+          "before": "Lucas",
+          "after": "Johannes"
+        },
+        "lastName": {
+          "before": "Reed",
+          "after": "Wodarz"
+        },
+        "nationality": {
+          "before": "Sweden",
+          "after": "Germany"
+        },
+        "role": {
+          "before": "Entry Fragger",
+          "after": "Rifler"
+        },
+        "nickname_key": {
+          "before": "echo51",
+          "after": "tabsen"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-052",
+      "fields": {
+        "nickname": {
+          "before": "Pulse52",
+          "after": "blameF"
+        },
+        "firstName": {
+          "before": "Amir",
+          "after": "Benjamin"
+        },
+        "lastName": {
+          "before": "Silva",
+          "after": "Bremer"
+        },
+        "nationality": {
+          "before": "Poland",
+          "after": "Denmark"
+        },
+        "role": {
+          "before": "Support",
+          "after": "IGL"
+        },
+        "nickname_key": {
+          "before": "pulse52",
+          "after": "blamef"
+        }
+      }
+    },
+    {
+      "table": "players",
+      "id": "player-133",
+      "fields": {
+        "nickname": {
+          "before": "Orbit133",
+          "after": "faveN"
+        },
+        "firstName": {
+          "before": "Alex",
+          "after": "Josef"
+        },
+        "lastName": {
+          "before": "Berg",
+          "after": "Baumann"
+        },
+        "nationality": {
+          "before": "Kazakhstan",
+          "after": "Germany"
+        },
+        "role": {
+          "before": "IGL",
+          "after": "Rifler"
+        },
+        "nickname_key": {
+          "before": "orbit133",
+          "after": "faven"
+        }
+      }
+    },
+    {
+      "table": "teams",
+      "id": "team-13",
+      "fields": {
+        "description": {
+          "before": "BIG is featured in CS2 ARENA's fictional competition. This five-player demo roster and ranking do not represent the real team. The country/region is a demo organization label, not the players' nationality.",
+          "after": "Verified roster snapshot: 2026-10-19. Source: https://bigclan.gg/pages/team/cs2. Rankings, ages, ratings and competition data remain fictional demo values. This is a dated snapshot, not a live roster feed."
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-01",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/cologne.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-02",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/katowice.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-03",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/paris.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-04",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/copenhagen.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-05",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/dallas.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-06",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/rio.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-07",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/astana.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-08",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/stockholm.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-09",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/sydney.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-10",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/shanghai.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-11",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/ulaanbaatar.jpg"
+        }
+      }
+    },
+    {
+      "table": "tournaments",
+      "id": "tournament-12",
+      "fields": {
+        "image": {
+          "before": "/images/tournament-placeholder.svg",
+          "after": "/images/photos/lisbon.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-001",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-002",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-003",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-01.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-004",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-03.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-005",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/gaming-setup.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-006",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-007",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-008",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-01.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-009",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-03.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-010",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/gaming-setup.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-011",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-012",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-013",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-01.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-014",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-03.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-015",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/gaming-setup.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-016",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-017",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-018",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-01.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-019",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-03.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-020",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/gaming-setup.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-021",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-022",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-023",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-01.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-024",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-03.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-025",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/gaming-setup.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-026",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-027",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/news-dark.svg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-028",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-01.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-029",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/cs-stage-03.jpg"
+        }
+      }
+    },
+    {
+      "table": "news",
+      "id": "news-030",
+      "fields": {
+        "image": {
+          "before": "/images/news-placeholder.svg",
+          "after": "/images/photos/gaming-setup.jpg"
+        }
+      }
+    }
+  ],
+  "alreadyApplied": [],
+  "conflicts": [],
+  "preservedFreeAgents": 31,
+  "manifestHash": "83ee8e8386c72b9ec5b61412820ce61a9079b3e6d5477bb0fdfb08d057d96b5d",
+  "planHash": "0b4b1ca96d5821294d51603203b485f317f4c5c514c0e162787eee954715cbd8",
+  "applied": true,
+  "appliedAt": "20261019T163557039931Z",
+  "backup": "C:\\Users\\Dostyk\\WebstormProjects\\Midterm\\backend\\backups\\arena-phase6b-content-v1-20261019T163557039931Z.db",
+  "afterFingerprint": "7a0107ac3ce2db4a399c5c571005d62e99bab163e846603dcbd13c2281da8846"
+}

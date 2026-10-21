@@ -1,0 +1,81 @@
+{
+  "checks": [
+    {
+      "path": "/",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/teams",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/matches",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/tournaments",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/free-agents",
+      "notices": 0,
+      "sorts": 1,
+      "labels": []
+    },
+    {
+      "path": "/teams/team-01",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/teams/team-03",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/players/player-006",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/tournaments/tournament-01",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/matches/match-001",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/add-player",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    },
+    {
+      "path": "/news/news-030",
+      "notices": 0,
+      "sorts": 0,
+      "labels": []
+    }
+  ],
+  "controls": "passed",
+  "manualImageMapping": "passed via isolated browser mocks; files/config unmodified",
+  "missingImageFallback": "/images/photos/gaming-setup.jpg",
+  "mobileWidth": 390,
+  "overflow": false
+}

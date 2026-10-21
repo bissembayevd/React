@@ -1,0 +1,155 @@
+{
+  "snapshotDate": "2026-10-19",
+  "teams": [
+    {
+      "teamId": "team-01",
+      "source": "https://navi.gg/en/teams/cs2",
+      "notes": "Official roster page. AWP maps to AWPer, Entry to Entry Fragger, Anchor to the broader Rifler category. Ages are retained as demo values, not asserted as verified biographical data.",
+      "players": [
+        {
+          "id": "player-001",
+          "nickname": "Aleksib",
+          "firstName": "Aleksi",
+          "lastName": "Virolainen",
+          "nationality": "Finland",
+          "role": "IGL",
+          "image": "/images/photos/aleksib-2019.jpg"
+        },
+        {
+          "id": "player-002",
+          "nickname": "b1t",
+          "firstName": "Valerii",
+          "lastName": "Vakhovskyi",
+          "nationality": "Ukraine",
+          "role": "Rifler"
+        },
+        {
+          "id": "player-003",
+          "nickname": "iM",
+          "firstName": "Mihai",
+          "lastName": "Ivan",
+          "nationality": "Romania",
+          "role": "Rifler"
+        },
+        {
+          "id": "player-004",
+          "nickname": "w0nderful",
+          "firstName": "Ihor",
+          "lastName": "Zhdanov",
+          "nationality": "Ukraine",
+          "role": "AWPer"
+        },
+        {
+          "id": "player-121",
+          "nickname": "Makazze",
+          "firstName": "Drin",
+          "lastName": "Shaqiri",
+          "nationality": "Kosovo",
+          "role": "Entry Fragger"
+        }
+      ]
+    },
+    {
+      "teamId": "team-02",
+      "source": "https://vitality.gg/pages/teams/counter-strike-2",
+      "notes": "Names and affiliation from the official five-player roster; nationalities corroborated by BLAST player profiles and official biographies. Only apEX and ZywOo roles are migrated; other roles and all ages remain unverified/demo fields.",
+      "fieldSources": [
+        "https://blast.tv/cs/player/0693c10c/zywoo",
+        "https://blast.tv/cs/player/0c718cc9/flamez",
+        "https://blast.tv/cs/player/fc196dbf/ropz",
+        "https://vitality.gg/pages/athletes/apex",
+        "https://vitality.gg/pages/athletes/mezii",
+        "https://en.wikipedia.org/wiki/ZywOo"
+      ],
+      "players": [
+        {
+          "id": "player-005",
+          "nickname": "apEX",
+          "firstName": "Dan",
+          "lastName": "Madesclaire",
+          "nationality": "France",
+          "role": "IGL",
+          "image": "/images/photos/apex-2019.jpg"
+        },
+        {
+          "id": "player-006",
+          "nickname": "ZywOo",
+          "firstName": "Mathieu",
+          "lastName": "Herbaut",
+          "nationality": "France",
+          "role": "AWPer",
+          "image": "/images/photos/zywoo-2019.jpg"
+        },
+        {
+          "id": "player-007",
+          "nickname": "flameZ",
+          "firstName": "Shahar",
+          "lastName": "Shushan",
+          "nationality": "Israel"
+        },
+        {
+          "id": "player-008",
+          "nickname": "mezii",
+          "firstName": "William",
+          "lastName": "Merriman",
+          "nationality": "United Kingdom"
+        },
+        {
+          "id": "player-122",
+          "nickname": "ropz",
+          "firstName": "Robin",
+          "lastName": "Kool",
+          "nationality": "Estonia",
+          "image": "/images/photos/ropz-2023.jpg"
+        }
+      ]
+    },
+    {
+      "teamId": "team-13",
+      "source": "https://bigclan.gg/pages/team/cs2",
+      "notes": "Current official team page explicitly lists all five full names, country flags and roles. In-game Leader maps to IGL. Ages and ratings remain demo fields.",
+      "players": [
+        {
+          "id": "player-049",
+          "nickname": "gr1ks",
+          "firstName": "Gleb",
+          "lastName": "Gazin",
+          "nationality": "Belarus",
+          "role": "AWPer"
+        },
+        {
+          "id": "player-050",
+          "nickname": "JDC",
+          "firstName": "Jon",
+          "lastName": "de Castro",
+          "nationality": "Germany",
+          "role": "Rifler"
+        },
+        {
+          "id": "player-051",
+          "nickname": "tabseN",
+          "firstName": "Johannes",
+          "lastName": "Wodarz",
+          "nationality": "Germany",
+          "role": "Rifler"
+        },
+        {
+          "id": "player-052",
+          "nickname": "blameF",
+          "firstName": "Benjamin",
+          "lastName": "Bremer",
+          "nationality": "Denmark",
+          "role": "IGL"
+        },
+        {
+          "id": "player-133",
+          "nickname": "faveN",
+          "firstName": "Josef",
+          "lastName": "Baumann",
+          "nationality": "Germany",
+          "role": "Rifler"
+        }
+      ]
+    }
+  ]
+}

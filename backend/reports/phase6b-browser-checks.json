@@ -1,0 +1,60 @@
+{
+  "database": "temporary final-preview.db only",
+  "width": 390,
+  "checks": [
+    {
+      "route": "/matches",
+      "viewport": 390,
+      "width": 375,
+      "overflow": false,
+      "visibleImages": 1,
+      "brokenVisible": 0,
+      "searches": 0
+    },
+    {
+      "route": "/tournaments",
+      "viewport": 390,
+      "width": 375,
+      "overflow": false,
+      "visibleImages": 1,
+      "brokenVisible": 0,
+      "searches": 0
+    },
+    {
+      "route": "/teams/team-02",
+      "viewport": 390,
+      "width": 375,
+      "overflow": false,
+      "visibleImages": 2,
+      "brokenVisible": 0,
+      "searches": 0
+    },
+    {
+      "route": "/free-agents",
+      "viewport": 390,
+      "width": 375,
+      "overflow": false,
+      "visibleImages": 1,
+      "brokenVisible": 0,
+      "searches": 1
+    },
+    {
+      "route": "/players/player-006",
+      "viewport": 390,
+      "width": 375,
+      "overflow": false,
+      "visibleImages": 1,
+      "brokenVisible": 0,
+      "searches": 0
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "width": 375,
+      "overflow": false,
+      "visibleImages": 2,
+      "brokenVisible": 0,
+      "searches": 0
+    }
+  ]
+}

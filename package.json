@@ -1,0 +1,23 @@
+{
+  "name": "cs2-arena",
+  "version": "1.0.0",
+  "description": "CS2 ARENA university project — Phase 2 data layer",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test"
+  },
+  "private": true,
+  "devDependencies": {
+    "vite": "^7.1.7",
+    "@vitejs/plugin-react": "^5.0.4"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.4",
+    "lucide-react": "^0.468.0"
+  }
+}

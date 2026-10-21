@@ -1,0 +1,12 @@
+{
+  "databaseUnchanged": true,
+  "databaseFingerprint": "43166ac2fa67da33ce0767db6a235255332af78b6cacf1d2d2ae40ac160c9791",
+  "players": 152,
+  "freeAgents": 32,
+  "frontendTests": 19,
+  "backendTests": 14,
+  "build": "passed",
+  "browserEvidence": "ui-content-browser.json",
+  "articleText": "Stock demo/sample paragraphs and generated summaries hidden in presentation; actual prose, custom summaries, and all stored records unchanged.",
+  "photoAssignments": "All 30 mapping entries empty; no photographs downloaded, generated, assigned or deleted."
+}

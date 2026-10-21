@@ -1,0 +1,6 @@
+.news-details-page { max-width: 900px; margin-inline: auto; }
+.news-details-page h1 { font-size: clamp(28px, 4vw, 44px); line-height: 1.2; margin-block: 16px; overflow-wrap: anywhere; }
+.article-summary { line-height: 1.8; margin-bottom: 24px; }
+.article-image { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px; border: 1px solid var(--border); }
+.article-content { margin-top: 28px; font-size: 15px; line-height: 1.9; overflow-wrap: anywhere; }
+.article-content p { white-space: pre-line; margin-bottom: 22px; }

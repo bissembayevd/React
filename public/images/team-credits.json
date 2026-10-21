@@ -1,0 +1,72 @@
+[
+  {
+    "name": "navi",
+    "path": "/images/teams/navi.svg",
+    "author": "Natus Vincere",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NAVI-Logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/5/52/NAVI-Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "None; original file, scaled with CSS only."
+  },
+  {
+    "name": "spirit",
+    "path": "/images/teams/spirit.svg",
+    "author": "Team Spirit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Team_Spirit_new_em.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Team_Spirit_new_em.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "None; original file, scaled with CSS only."
+  },
+  {
+    "name": "faze",
+    "path": "/images/teams/faze.svg",
+    "author": "Faze Clan",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Faze_Clan.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Faze_Clan.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "None; original file, scaled with CSS only."
+  },
+  {
+    "name": "mouz",
+    "path": "/images/teams/mouz.png",
+    "author": "mousesports",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "source": "https://commons.wikimedia.org/wiki/File:MOUZlogo2021.png",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/3/39/MOUZlogo2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "None; original file, scaled with CSS only."
+  },
+  {
+    "name": "astralis",
+    "path": "/images/teams/astralis.png",
+    "author": "69Zyr3x69",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Astralis_3.png",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Astralis_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "None; original file, scaled with CSS only."
+  },
+  {
+    "name": "flyquest",
+    "path": "/images/teams/flyquest.svg",
+    "author": "FlyQuest",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Flyquest_logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flyquest_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "None; original file, scaled with CSS only."
+  },
+  {
+    "name": "g2",
+    "path": "/images/teams/g2.png",
+    "author": "G2 Esports",
+    "license": "Official media brand guidelines (not an open copyright license)",
+    "licenseUrl": "https://g2esports.com/pages/brand-guidelines",
+    "source": "https://g2esports.com/pages/brand-guidelines",
+    "download": "https://g2esports.com/cdn/shop/files/G2-Esports-2020-Logo_87bf0678-e67f-4834-8b09-e56137ffaa80.png?v=1641913940",
+    "changes": "None. Original proportions and colors, no filters or effects. Used only to identify the team in this demo portal."
+  }
+]

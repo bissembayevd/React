@@ -1,0 +1,1242 @@
+{
+  "version": "hltv-nicknames-2026-10-21-v1",
+  "checkedAt": "2026-10-21",
+  "manifestHash": "132fe45601d796a0208870ba8fbdb1323a86f56d63ef180b1627f2045a591174",
+  "databaseFingerprint": "b3ba3ec0771fdc2436400b7365aee7cc4895886dc5e2193efab0c37ffa2e11d5",
+  "counts": {
+    "players": 153,
+    "teams": 24,
+    "news": 30,
+    "matches": 40,
+    "tournaments": 12
+  },
+  "preservedFreeAgents": 33,
+  "assignments": [
+    {
+      "id": "player-001",
+      "teamId": "team-01",
+      "nickname": "Aleksib",
+      "source": "https://www.hltv.org/team/4608/natus-vincere"
+    },
+    {
+      "id": "player-002",
+      "teamId": "team-01",
+      "nickname": "b1t",
+      "source": "https://www.hltv.org/team/4608/natus-vincere"
+    },
+    {
+      "id": "player-003",
+      "teamId": "team-01",
+      "nickname": "iM",
+      "source": "https://www.hltv.org/team/4608/natus-vincere"
+    },
+    {
+      "id": "player-004",
+      "teamId": "team-01",
+      "nickname": "w0nderful",
+      "source": "https://www.hltv.org/team/4608/natus-vincere"
+    },
+    {
+      "id": "player-121",
+      "teamId": "team-01",
+      "nickname": "makazze",
+      "source": "https://www.hltv.org/team/4608/natus-vincere"
+    },
+    {
+      "id": "player-005",
+      "teamId": "team-02",
+      "nickname": "apEX",
+      "source": "https://www.hltv.org/team/9565/vitality"
+    },
+    {
+      "id": "player-006",
+      "teamId": "team-02",
+      "nickname": "ZywOo",
+      "source": "https://www.hltv.org/team/9565/vitality"
+    },
+    {
+      "id": "player-007",
+      "teamId": "team-02",
+      "nickname": "flameZ",
+      "source": "https://www.hltv.org/team/9565/vitality"
+    },
+    {
+      "id": "player-008",
+      "teamId": "team-02",
+      "nickname": "mezii",
+      "source": "https://www.hltv.org/team/9565/vitality"
+    },
+    {
+      "id": "player-122",
+      "teamId": "team-02",
+      "nickname": "ropz",
+      "source": "https://www.hltv.org/team/9565/vitality"
+    },
+    {
+      "id": "player-009",
+      "teamId": "team-03",
+      "nickname": "frozen",
+      "source": "https://www.hltv.org/team/6667/faze"
+    },
+    {
+      "id": "player-010",
+      "teamId": "team-03",
+      "nickname": "Twistzz",
+      "source": "https://www.hltv.org/team/6667/faze"
+    },
+    {
+      "id": "player-011",
+      "teamId": "team-03",
+      "nickname": "Neityu",
+      "source": "https://www.hltv.org/team/6667/faze"
+    },
+    {
+      "id": "player-012",
+      "teamId": "team-03",
+      "nickname": "jcobbb",
+      "source": "https://www.hltv.org/team/6667/faze"
+    },
+    {
+      "id": "player-123",
+      "teamId": "team-03",
+      "nickname": "JBOEN",
+      "source": "https://www.hltv.org/team/6667/faze"
+    },
+    {
+      "id": "player-013",
+      "teamId": "team-04",
+      "nickname": "huNter-",
+      "source": "https://www.hltv.org/team/5995/g2"
+    },
+    {
+      "id": "player-014",
+      "teamId": "team-04",
+      "nickname": "NertZ",
+      "source": "https://www.hltv.org/team/5995/g2"
+    },
+    {
+      "id": "player-015",
+      "teamId": "team-04",
+      "nickname": "r1nkle",
+      "source": "https://www.hltv.org/team/5995/g2"
+    },
+    {
+      "id": "player-016",
+      "teamId": "team-04",
+      "nickname": "HeavyGod",
+      "source": "https://www.hltv.org/team/5995/g2"
+    },
+    {
+      "id": "player-124",
+      "teamId": "team-04",
+      "nickname": "MATYS",
+      "source": "https://www.hltv.org/team/5995/g2"
+    },
+    {
+      "id": "player-017",
+      "teamId": "team-05",
+      "nickname": "sh1ro",
+      "source": "https://www.hltv.org/team/7020/spirit"
+    },
+    {
+      "id": "player-018",
+      "teamId": "team-05",
+      "nickname": "magixx",
+      "source": "https://www.hltv.org/team/7020/spirit"
+    },
+    {
+      "id": "player-019",
+      "teamId": "team-05",
+      "nickname": "tN1R",
+      "source": "https://www.hltv.org/team/7020/spirit"
+    },
+    {
+      "id": "player-020",
+      "teamId": "team-05",
+      "nickname": "zont1x",
+      "source": "https://www.hltv.org/team/7020/spirit"
+    },
+    {
+      "id": "player-125",
+      "teamId": "team-05",
+      "nickname": "donk",
+      "source": "https://www.hltv.org/team/7020/spirit"
+    },
+    {
+      "id": "player-021",
+      "teamId": "team-06",
+      "nickname": "torzsi",
+      "source": "https://www.hltv.org/team/4494/mouz"
+    },
+    {
+      "id": "player-022",
+      "teamId": "team-06",
+      "nickname": "Spinx",
+      "source": "https://www.hltv.org/team/4494/mouz"
+    },
+    {
+      "id": "player-023",
+      "teamId": "team-06",
+      "nickname": "xertioN",
+      "source": "https://www.hltv.org/team/4494/mouz"
+    },
+    {
+      "id": "player-024",
+      "teamId": "team-06",
+      "nickname": "PR",
+      "source": "https://www.hltv.org/team/4494/mouz"
+    },
+    {
+      "id": "player-126",
+      "teamId": "team-06",
+      "nickname": "xelex",
+      "source": "https://www.hltv.org/team/4494/mouz"
+    },
+    {
+      "id": "player-025",
+      "teamId": "team-07",
+      "nickname": "phzy",
+      "source": "https://www.hltv.org/team/6665/astralis"
+    },
+    {
+      "id": "player-026",
+      "teamId": "team-07",
+      "nickname": "siuhy",
+      "source": "https://www.hltv.org/team/6665/astralis"
+    },
+    {
+      "id": "player-027",
+      "teamId": "team-07",
+      "nickname": "Staehr",
+      "source": "https://www.hltv.org/team/6665/astralis"
+    },
+    {
+      "id": "player-028",
+      "teamId": "team-07",
+      "nickname": "ryu",
+      "source": "https://www.hltv.org/team/6665/astralis"
+    },
+    {
+      "id": "player-127",
+      "teamId": "team-07",
+      "nickname": "cmtry",
+      "source": "https://www.hltv.org/team/6665/astralis"
+    },
+    {
+      "id": "player-029",
+      "teamId": "team-08",
+      "nickname": "NAF",
+      "source": "https://www.hltv.org/team/5973/liquid"
+    },
+    {
+      "id": "player-030",
+      "teamId": "team-08",
+      "nickname": "EliGE",
+      "source": "https://www.hltv.org/team/5973/liquid"
+    },
+    {
+      "id": "player-031",
+      "teamId": "team-08",
+      "nickname": "malbsMd",
+      "source": "https://www.hltv.org/team/5973/liquid"
+    },
+    {
+      "id": "player-032",
+      "teamId": "team-08",
+      "nickname": "JT",
+      "source": "https://www.hltv.org/team/5973/liquid"
+    },
+    {
+      "id": "player-128",
+      "teamId": "team-08",
+      "nickname": "Jorko",
+      "source": "https://www.hltv.org/team/5973/liquid"
+    },
+    {
+      "id": "player-033",
+      "teamId": "team-09",
+      "nickname": "FalleN",
+      "source": "https://www.hltv.org/team/8297/furia"
+    },
+    {
+      "id": "player-034",
+      "teamId": "team-09",
+      "nickname": "yuurih",
+      "source": "https://www.hltv.org/team/8297/furia"
+    },
+    {
+      "id": "player-035",
+      "teamId": "team-09",
+      "nickname": "YEKINDAR",
+      "source": "https://www.hltv.org/team/8297/furia"
+    },
+    {
+      "id": "player-036",
+      "teamId": "team-09",
+      "nickname": "KSCERATO",
+      "source": "https://www.hltv.org/team/8297/furia"
+    },
+    {
+      "id": "player-129",
+      "teamId": "team-09",
+      "nickname": "molodoy",
+      "source": "https://www.hltv.org/team/8297/furia"
+    },
+    {
+      "id": "player-037",
+      "teamId": "team-10",
+      "nickname": "mir",
+      "source": "https://www.hltv.org/team/5378/virtuspro"
+    },
+    {
+      "id": "player-038",
+      "teamId": "team-10",
+      "nickname": "b1st",
+      "source": "https://www.hltv.org/team/5378/virtuspro"
+    },
+    {
+      "id": "player-039",
+      "teamId": "team-10",
+      "nickname": "F0R3VER",
+      "source": "https://www.hltv.org/team/5378/virtuspro"
+    },
+    {
+      "id": "player-040",
+      "teamId": "team-10",
+      "nickname": "AquaRS",
+      "source": "https://www.hltv.org/team/5378/virtuspro"
+    },
+    {
+      "id": "player-130",
+      "teamId": "team-10",
+      "nickname": "tO0RO",
+      "source": "https://www.hltv.org/team/5378/virtuspro"
+    },
+    {
+      "id": "player-041",
+      "teamId": "team-11",
+      "nickname": "stavn",
+      "source": "https://www.hltv.org/team/4411/ninjas-in-pyjamas"
+    },
+    {
+      "id": "player-042",
+      "teamId": "team-11",
+      "nickname": "sjuush",
+      "source": "https://www.hltv.org/team/4411/ninjas-in-pyjamas"
+    },
+    {
+      "id": "player-043",
+      "teamId": "team-11",
+      "nickname": "Krimbo",
+      "source": "https://www.hltv.org/team/4411/ninjas-in-pyjamas"
+    },
+    {
+      "id": "player-044",
+      "teamId": "team-11",
+      "nickname": "adamb",
+      "source": "https://www.hltv.org/team/4411/ninjas-in-pyjamas"
+    },
+    {
+      "id": "player-131",
+      "teamId": "team-11",
+      "nickname": "xKacpersky",
+      "source": "https://www.hltv.org/team/4411/ninjas-in-pyjamas"
+    },
+    {
+      "id": "player-051",
+      "teamId": "team-13",
+      "nickname": "tabseN",
+      "source": "https://www.hltv.org/team/7532/big"
+    },
+    {
+      "id": "player-050",
+      "teamId": "team-13",
+      "nickname": "JDC",
+      "source": "https://www.hltv.org/team/7532/big"
+    },
+    {
+      "id": "player-133",
+      "teamId": "team-13",
+      "nickname": "faveN",
+      "source": "https://www.hltv.org/team/7532/big"
+    },
+    {
+      "id": "player-052",
+      "teamId": "team-13",
+      "nickname": "blameF",
+      "source": "https://www.hltv.org/team/7532/big"
+    },
+    {
+      "id": "player-049",
+      "teamId": "team-13",
+      "nickname": "gr1ks",
+      "source": "https://www.hltv.org/team/7532/big"
+    },
+    {
+      "id": "player-053",
+      "teamId": "team-14",
+      "nickname": "HENU",
+      "source": "https://www.hltv.org/team/4869/ence"
+    },
+    {
+      "id": "player-054",
+      "teamId": "team-14",
+      "nickname": "millert",
+      "source": "https://www.hltv.org/team/4869/ence"
+    },
+    {
+      "id": "player-055",
+      "teamId": "team-14",
+      "nickname": "teme",
+      "source": "https://www.hltv.org/team/4869/ence"
+    },
+    {
+      "id": "player-056",
+      "teamId": "team-14",
+      "nickname": "Schwarz",
+      "source": "https://www.hltv.org/team/4869/ence"
+    },
+    {
+      "id": "player-134",
+      "teamId": "team-14",
+      "nickname": "joeski",
+      "source": "https://www.hltv.org/team/4869/ence"
+    },
+    {
+      "id": "player-057",
+      "teamId": "team-15",
+      "nickname": "Brollan",
+      "source": "https://www.hltv.org/team/7175/heroic"
+    },
+    {
+      "id": "player-058",
+      "teamId": "team-15",
+      "nickname": "nilo",
+      "source": "https://www.hltv.org/team/7175/heroic"
+    },
+    {
+      "id": "player-059",
+      "teamId": "team-15",
+      "nickname": "susp",
+      "source": "https://www.hltv.org/team/7175/heroic"
+    },
+    {
+      "id": "player-060",
+      "teamId": "team-15",
+      "nickname": "MartinezSa",
+      "source": "https://www.hltv.org/team/7175/heroic"
+    },
+    {
+      "id": "player-135",
+      "teamId": "team-15",
+      "nickname": "Chr1zN",
+      "source": "https://www.hltv.org/team/7175/heroic"
+    },
+    {
+      "id": "player-061",
+      "teamId": "team-16",
+      "nickname": "NiKo",
+      "source": "https://www.hltv.org/team/11283/falcons"
+    },
+    {
+      "id": "player-062",
+      "teamId": "team-16",
+      "nickname": "TeSeS",
+      "source": "https://www.hltv.org/team/11283/falcons"
+    },
+    {
+      "id": "player-063",
+      "teamId": "team-16",
+      "nickname": "m0NESY",
+      "source": "https://www.hltv.org/team/11283/falcons"
+    },
+    {
+      "id": "player-064",
+      "teamId": "team-16",
+      "nickname": "kyousuke",
+      "source": "https://www.hltv.org/team/11283/falcons"
+    },
+    {
+      "id": "player-136",
+      "teamId": "team-16",
+      "nickname": "karrigan",
+      "source": "https://www.hltv.org/team/11283/falcons"
+    },
+    {
+      "id": "player-065",
+      "teamId": "team-17",
+      "nickname": "REZ",
+      "source": "https://www.hltv.org/team/9928/gamerlegion"
+    },
+    {
+      "id": "player-066",
+      "teamId": "team-17",
+      "nickname": "Tauson",
+      "source": "https://www.hltv.org/team/9928/gamerlegion"
+    },
+    {
+      "id": "player-067",
+      "teamId": "team-17",
+      "nickname": "FL4MUS",
+      "source": "https://www.hltv.org/team/9928/gamerlegion"
+    },
+    {
+      "id": "player-068",
+      "teamId": "team-17",
+      "nickname": "hypex",
+      "source": "https://www.hltv.org/team/9928/gamerlegion"
+    },
+    {
+      "id": "player-069",
+      "teamId": "team-18",
+      "nickname": "biguzera",
+      "source": "https://www.hltv.org/team/4773/pain"
+    },
+    {
+      "id": "player-070",
+      "teamId": "team-18",
+      "nickname": "saffee",
+      "source": "https://www.hltv.org/team/4773/pain"
+    },
+    {
+      "id": "player-071",
+      "teamId": "team-18",
+      "nickname": "snow",
+      "source": "https://www.hltv.org/team/4773/pain"
+    },
+    {
+      "id": "player-072",
+      "teamId": "team-18",
+      "nickname": "Tatu",
+      "source": "https://www.hltv.org/team/4773/pain"
+    },
+    {
+      "id": "player-138",
+      "teamId": "team-18",
+      "nickname": "Rkzinho",
+      "source": "https://www.hltv.org/team/4773/pain"
+    },
+    {
+      "id": "player-073",
+      "teamId": "team-19",
+      "nickname": "chelo",
+      "source": "https://www.hltv.org/team/9455/imperial"
+    },
+    {
+      "id": "player-074",
+      "teamId": "team-19",
+      "nickname": "VINI",
+      "source": "https://www.hltv.org/team/9455/imperial"
+    },
+    {
+      "id": "player-075",
+      "teamId": "team-19",
+      "nickname": "decenty",
+      "source": "https://www.hltv.org/team/9455/imperial"
+    },
+    {
+      "id": "player-076",
+      "teamId": "team-19",
+      "nickname": "noway",
+      "source": "https://www.hltv.org/team/9455/imperial"
+    },
+    {
+      "id": "player-139",
+      "teamId": "team-19",
+      "nickname": "saadzin",
+      "source": "https://www.hltv.org/team/9455/imperial"
+    },
+    {
+      "id": "player-077",
+      "teamId": "team-20",
+      "nickname": "max",
+      "source": "https://www.hltv.org/team/9996/9z"
+    },
+    {
+      "id": "player-078",
+      "teamId": "team-20",
+      "nickname": "dgt",
+      "source": "https://www.hltv.org/team/9996/9z"
+    },
+    {
+      "id": "player-079",
+      "teamId": "team-20",
+      "nickname": "meyern",
+      "source": "https://www.hltv.org/team/9996/9z"
+    },
+    {
+      "id": "player-080",
+      "teamId": "team-20",
+      "nickname": "luchov",
+      "source": "https://www.hltv.org/team/9996/9z"
+    },
+    {
+      "id": "player-140",
+      "teamId": "team-20",
+      "nickname": "HUASOPEEK",
+      "source": "https://www.hltv.org/team/9996/9z"
+    },
+    {
+      "id": "player-081",
+      "teamId": "team-21",
+      "nickname": "nin9",
+      "source": "https://www.hltv.org/team/6248/the-mongolz"
+    },
+    {
+      "id": "player-082",
+      "teamId": "team-21",
+      "nickname": "bLitz",
+      "source": "https://www.hltv.org/team/6248/the-mongolz"
+    },
+    {
+      "id": "player-083",
+      "teamId": "team-21",
+      "nickname": "Techno",
+      "source": "https://www.hltv.org/team/6248/the-mongolz"
+    },
+    {
+      "id": "player-084",
+      "teamId": "team-21",
+      "nickname": "910",
+      "source": "https://www.hltv.org/team/6248/the-mongolz"
+    },
+    {
+      "id": "player-141",
+      "teamId": "team-21",
+      "nickname": "cobrazera",
+      "source": "https://www.hltv.org/team/6248/the-mongolz"
+    },
+    {
+      "id": "player-085",
+      "teamId": "team-22",
+      "nickname": "jks",
+      "source": "https://www.hltv.org/team/12774/flyquest"
+    },
+    {
+      "id": "player-086",
+      "teamId": "team-22",
+      "nickname": "aliStair",
+      "source": "https://www.hltv.org/team/12774/flyquest"
+    },
+    {
+      "id": "player-087",
+      "teamId": "team-22",
+      "nickname": "INS",
+      "source": "https://www.hltv.org/team/12774/flyquest"
+    },
+    {
+      "id": "player-088",
+      "teamId": "team-22",
+      "nickname": "Vexite",
+      "source": "https://www.hltv.org/team/12774/flyquest"
+    },
+    {
+      "id": "player-142",
+      "teamId": "team-22",
+      "nickname": "nettik",
+      "source": "https://www.hltv.org/team/12774/flyquest"
+    },
+    {
+      "id": "player-089",
+      "teamId": "team-23",
+      "nickname": "JamYoung",
+      "source": "https://www.hltv.org/team/4863/tyloo"
+    },
+    {
+      "id": "player-090",
+      "teamId": "team-23",
+      "nickname": "Jee",
+      "source": "https://www.hltv.org/team/4863/tyloo"
+    },
+    {
+      "id": "player-091",
+      "teamId": "team-23",
+      "nickname": "Mercury",
+      "source": "https://www.hltv.org/team/4863/tyloo"
+    },
+    {
+      "id": "player-092",
+      "teamId": "team-23",
+      "nickname": "Moseyuh",
+      "source": "https://www.hltv.org/team/4863/tyloo"
+    },
+    {
+      "id": "player-143",
+      "teamId": "team-23",
+      "nickname": "Zero",
+      "source": "https://www.hltv.org/team/4863/tyloo"
+    },
+    {
+      "id": "player-093",
+      "teamId": "team-24",
+      "nickname": "Boombl4",
+      "source": "https://www.hltv.org/team/12394/betboom"
+    },
+    {
+      "id": "player-094",
+      "teamId": "team-24",
+      "nickname": "zorte",
+      "source": "https://www.hltv.org/team/12394/betboom"
+    },
+    {
+      "id": "player-095",
+      "teamId": "team-24",
+      "nickname": "S1ren",
+      "source": "https://www.hltv.org/team/12394/betboom"
+    },
+    {
+      "id": "player-096",
+      "teamId": "team-24",
+      "nickname": "d1Ledez",
+      "source": "https://www.hltv.org/team/12394/betboom"
+    },
+    {
+      "id": "player-144",
+      "teamId": "team-24",
+      "nickname": "Magnojez",
+      "source": "https://www.hltv.org/team/12394/betboom"
+    }
+  ],
+  "updates": [
+    {
+      "id": "player-009",
+      "before": "Frozen",
+      "after": "frozen"
+    },
+    {
+      "id": "player-010",
+      "before": "Onyx10",
+      "after": "Twistzz"
+    },
+    {
+      "id": "player-011",
+      "before": "Drift11",
+      "after": "Neityu"
+    },
+    {
+      "id": "player-012",
+      "before": "Apex12",
+      "after": "jcobbb"
+    },
+    {
+      "id": "player-013",
+      "before": "Orbit13",
+      "after": "huNter-"
+    },
+    {
+      "id": "player-014",
+      "before": "Vex14",
+      "after": "NertZ"
+    },
+    {
+      "id": "player-015",
+      "before": "Echo15",
+      "after": "r1nkle"
+    },
+    {
+      "id": "player-016",
+      "before": "Pulse16",
+      "after": "HeavyGod"
+    },
+    {
+      "id": "player-017",
+      "before": "Frost17",
+      "after": "sh1ro"
+    },
+    {
+      "id": "player-018",
+      "before": "Cipher18",
+      "after": "magixx"
+    },
+    {
+      "id": "player-019",
+      "before": "Nova19",
+      "after": "tN1R"
+    },
+    {
+      "id": "player-020",
+      "before": "Rift20",
+      "after": "zont1x"
+    },
+    {
+      "id": "player-021",
+      "before": "Flare21",
+      "after": "torzsi"
+    },
+    {
+      "id": "player-022",
+      "before": "Onyx22",
+      "after": "Spinx"
+    },
+    {
+      "id": "player-023",
+      "before": "Drift23",
+      "after": "xertioN"
+    },
+    {
+      "id": "player-024",
+      "before": "Apex24",
+      "after": "PR"
+    },
+    {
+      "id": "player-025",
+      "before": "Orbit25",
+      "after": "phzy"
+    },
+    {
+      "id": "player-026",
+      "before": "Vex26",
+      "after": "siuhy"
+    },
+    {
+      "id": "player-027",
+      "before": "Echo27",
+      "after": "Staehr"
+    },
+    {
+      "id": "player-028",
+      "before": "Pulse28",
+      "after": "ryu"
+    },
+    {
+      "id": "player-029",
+      "before": "Frost29",
+      "after": "NAF"
+    },
+    {
+      "id": "player-030",
+      "before": "Cipher30",
+      "after": "EliGE"
+    },
+    {
+      "id": "player-031",
+      "before": "Nova31",
+      "after": "malbsMd"
+    },
+    {
+      "id": "player-032",
+      "before": "Rift32",
+      "after": "JT"
+    },
+    {
+      "id": "player-033",
+      "before": "Flare33",
+      "after": "FalleN"
+    },
+    {
+      "id": "player-034",
+      "before": "Onyx34",
+      "after": "yuurih"
+    },
+    {
+      "id": "player-035",
+      "before": "Drift35",
+      "after": "YEKINDAR"
+    },
+    {
+      "id": "player-036",
+      "before": "Apex36",
+      "after": "KSCERATO"
+    },
+    {
+      "id": "player-037",
+      "before": "Orbit37",
+      "after": "mir"
+    },
+    {
+      "id": "player-038",
+      "before": "Vex38",
+      "after": "b1st"
+    },
+    {
+      "id": "player-039",
+      "before": "Echo39",
+      "after": "F0R3VER"
+    },
+    {
+      "id": "player-040",
+      "before": "Pulse40",
+      "after": "AquaRS"
+    },
+    {
+      "id": "player-041",
+      "before": "Frost41",
+      "after": "stavn"
+    },
+    {
+      "id": "player-042",
+      "before": "Cipher42",
+      "after": "sjuush"
+    },
+    {
+      "id": "player-043",
+      "before": "Nova43",
+      "after": "Krimbo"
+    },
+    {
+      "id": "player-044",
+      "before": "Rift44",
+      "after": "adamb"
+    },
+    {
+      "id": "player-053",
+      "before": "Frost53",
+      "after": "HENU"
+    },
+    {
+      "id": "player-054",
+      "before": "Cipher54",
+      "after": "millert"
+    },
+    {
+      "id": "player-055",
+      "before": "Nova55",
+      "after": "teme"
+    },
+    {
+      "id": "player-056",
+      "before": "Rift56",
+      "after": "Schwarz"
+    },
+    {
+      "id": "player-057",
+      "before": "Flare57",
+      "after": "Brollan"
+    },
+    {
+      "id": "player-058",
+      "before": "Onyx58",
+      "after": "nilo"
+    },
+    {
+      "id": "player-059",
+      "before": "Drift59",
+      "after": "susp"
+    },
+    {
+      "id": "player-060",
+      "before": "Apex60",
+      "after": "MartinezSa"
+    },
+    {
+      "id": "player-061",
+      "before": "Orbit61",
+      "after": "NiKo"
+    },
+    {
+      "id": "player-062",
+      "before": "Vex62",
+      "after": "TeSeS"
+    },
+    {
+      "id": "player-063",
+      "before": "Echo63",
+      "after": "m0NESY"
+    },
+    {
+      "id": "player-064",
+      "before": "Pulse64",
+      "after": "kyousuke"
+    },
+    {
+      "id": "player-065",
+      "before": "Frost65",
+      "after": "REZ"
+    },
+    {
+      "id": "player-066",
+      "before": "Cipher66",
+      "after": "Tauson"
+    },
+    {
+      "id": "player-067",
+      "before": "Nova67",
+      "after": "FL4MUS"
+    },
+    {
+      "id": "player-068",
+      "before": "Rift68",
+      "after": "hypex"
+    },
+    {
+      "id": "player-069",
+      "before": "Flare69",
+      "after": "biguzera"
+    },
+    {
+      "id": "player-070",
+      "before": "Onyx70",
+      "after": "saffee"
+    },
+    {
+      "id": "player-071",
+      "before": "Drift71",
+      "after": "snow"
+    },
+    {
+      "id": "player-072",
+      "before": "Apex72",
+      "after": "Tatu"
+    },
+    {
+      "id": "player-073",
+      "before": "Orbit73",
+      "after": "chelo"
+    },
+    {
+      "id": "player-074",
+      "before": "Vex74",
+      "after": "VINI"
+    },
+    {
+      "id": "player-075",
+      "before": "Echo75",
+      "after": "decenty"
+    },
+    {
+      "id": "player-076",
+      "before": "Pulse76",
+      "after": "noway"
+    },
+    {
+      "id": "player-077",
+      "before": "Frost77",
+      "after": "max"
+    },
+    {
+      "id": "player-078",
+      "before": "Cipher78",
+      "after": "dgt"
+    },
+    {
+      "id": "player-079",
+      "before": "Nova79",
+      "after": "meyern"
+    },
+    {
+      "id": "player-080",
+      "before": "Rift80",
+      "after": "luchov"
+    },
+    {
+      "id": "player-081",
+      "before": "Flare81",
+      "after": "nin9"
+    },
+    {
+      "id": "player-082",
+      "before": "Onyx82",
+      "after": "bLitz"
+    },
+    {
+      "id": "player-083",
+      "before": "Drift83",
+      "after": "Techno"
+    },
+    {
+      "id": "player-084",
+      "before": "Apex84",
+      "after": "910"
+    },
+    {
+      "id": "player-085",
+      "before": "Orbit85",
+      "after": "jks"
+    },
+    {
+      "id": "player-086",
+      "before": "Vex86",
+      "after": "aliStair"
+    },
+    {
+      "id": "player-087",
+      "before": "Echo87",
+      "after": "INS"
+    },
+    {
+      "id": "player-088",
+      "before": "Pulse88",
+      "after": "Vexite"
+    },
+    {
+      "id": "player-089",
+      "before": "Frost89",
+      "after": "JamYoung"
+    },
+    {
+      "id": "player-090",
+      "before": "Cipher90",
+      "after": "Jee"
+    },
+    {
+      "id": "player-091",
+      "before": "Nova91",
+      "after": "Mercury"
+    },
+    {
+      "id": "player-092",
+      "before": "Rift92",
+      "after": "Moseyuh"
+    },
+    {
+      "id": "player-093",
+      "before": "Flare93",
+      "after": "Boombl4"
+    },
+    {
+      "id": "player-094",
+      "before": "Onyx94",
+      "after": "zorte"
+    },
+    {
+      "id": "player-095",
+      "before": "Drift95",
+      "after": "S1ren"
+    },
+    {
+      "id": "player-096",
+      "before": "Apex96",
+      "after": "d1Ledez"
+    },
+    {
+      "id": "player-121",
+      "before": "Makazze",
+      "after": "makazze"
+    },
+    {
+      "id": "player-123",
+      "before": "Echo123",
+      "after": "JBOEN"
+    },
+    {
+      "id": "player-124",
+      "before": "Pulse124",
+      "after": "MATYS"
+    },
+    {
+      "id": "player-125",
+      "before": "Frost125",
+      "after": "donk"
+    },
+    {
+      "id": "player-126",
+      "before": "Cipher126",
+      "after": "xelex"
+    },
+    {
+      "id": "player-127",
+      "before": "Nova127",
+      "after": "cmtry"
+    },
+    {
+      "id": "player-128",
+      "before": "Rift128",
+      "after": "Jorko"
+    },
+    {
+      "id": "player-129",
+      "before": "Flare129",
+      "after": "molodoy"
+    },
+    {
+      "id": "player-130",
+      "before": "Onyx130",
+      "after": "tO0RO"
+    },
+    {
+      "id": "player-131",
+      "before": "Drift131",
+      "after": "xKacpersky"
+    },
+    {
+      "id": "player-134",
+      "before": "Vex134",
+      "after": "joeski"
+    },
+    {
+      "id": "player-135",
+      "before": "Echo135",
+      "after": "Chr1zN"
+    },
+    {
+      "id": "player-136",
+      "before": "Pulse136",
+      "after": "karrigan"
+    },
+    {
+      "id": "player-138",
+      "before": "Cipher138",
+      "after": "Rkzinho"
+    },
+    {
+      "id": "player-139",
+      "before": "Nova139",
+      "after": "saadzin"
+    },
+    {
+      "id": "player-140",
+      "before": "Rift140",
+      "after": "HUASOPEEK"
+    },
+    {
+      "id": "player-141",
+      "before": "Flare141",
+      "after": "cobrazera"
+    },
+    {
+      "id": "player-142",
+      "before": "Onyx142",
+      "after": "nettik"
+    },
+    {
+      "id": "player-143",
+      "before": "Drift143",
+      "after": "Zero"
+    },
+    {
+      "id": "player-144",
+      "before": "Apex144",
+      "after": "Magnojez"
+    }
+  ],
+  "retainedUnverifiedSlots": [
+    {
+      "id": "player-045",
+      "teamId": "team-12",
+      "nickname": "Flare45",
+      "reason": "No current roster. HLTV records departures on 2025-08-19. Preserve all five existing demo slots; do not assert a current roster."
+    },
+    {
+      "id": "player-046",
+      "teamId": "team-12",
+      "nickname": "Onyx46",
+      "reason": "No current roster. HLTV records departures on 2025-08-19. Preserve all five existing demo slots; do not assert a current roster."
+    },
+    {
+      "id": "player-047",
+      "teamId": "team-12",
+      "nickname": "Drift47",
+      "reason": "No current roster. HLTV records departures on 2025-08-19. Preserve all five existing demo slots; do not assert a current roster."
+    },
+    {
+      "id": "player-048",
+      "teamId": "team-12",
+      "nickname": "Apex48",
+      "reason": "No current roster. HLTV records departures on 2025-08-19. Preserve all five existing demo slots; do not assert a current roster."
+    },
+    {
+      "id": "player-132",
+      "teamId": "team-12",
+      "nickname": "Apex132",
+      "reason": "No current roster. HLTV records departures on 2025-08-19. Preserve all five existing demo slots; do not assert a current roster."
+    },
+    {
+      "id": "player-137",
+      "teamId": "team-17",
+      "nickname": "Frost137",
+      "reason": "Only four current starters after Snax was benched on 2026-10-21. Preserve one existing demo slot; do not invent a fifth player."
+    }
+  ],
+  "conflicts": [],
+  "planHash": "2920eae53747175b826335aea10b0d3b34b304f5132f3ed0bb3b43afcfdeec9d"
+}

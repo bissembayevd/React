@@ -1,0 +1,24 @@
+{
+  "exactApprovedChangesOnly": true,
+  "verifiedTeams": [
+    "team-01",
+    "team-02",
+    "team-13"
+  ],
+  "unmodifiedDemoTeams": 21,
+  "unmodifiedDemoActivePlayers": 105,
+  "freeAgentsUnchanged": 31,
+  "BackendQAUnchanged": [
+    "player-added-249cbfa1-3909-415b-a44d-ad4e0b0a7cdf"
+  ],
+  "stableIdsAndRelationships": true,
+  "allStoredImagePathsExist": true,
+  "repeatUpdates": 0,
+  "errors": [],
+  "liveApiVerifiedPlayers": 15,
+  "httpImagePathsChecked": 45,
+  "frontendTestsPassed": 15,
+  "backendTestsPassed": 14,
+  "productionBuild": "passed",
+  "warning": "Existing Starlette/httpx deprecation warning; no failures"
+}

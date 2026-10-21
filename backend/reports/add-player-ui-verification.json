@@ -1,0 +1,10 @@
+{
+  "databaseUnchanged": true,
+  "databaseFingerprint": "99eed8f25785c8d850bec2b742cdd68e873857d1af9d029bd115098fbd1c0f22",
+  "frontendTestsPassed": 19,
+  "isolatedBrowserTest": "passed: Home link absent, Free Agents navigation, required native country select, keyboard selection, reset, Kazakhstan POST 201 and saved profile",
+  "productionBuild": "passed",
+  "testDatabase": "disposable fixture, shut down and removed",
+  "countryFilter": "unchanged, continues deriving options from stored player nationality",
+  "manualImageMappings": "unchanged; outdated empty-mapping test corrected"
+}
