@@ -10,6 +10,8 @@ services:
     startCommand: python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT --workers 1
     healthCheckPath: /api/health
     envVars:
+      - key: CS2_RESTORED_SEED
+        value: "1"
       - key: PYTHON_VERSION
         value: 3.13.5
       - key: CORS_ORIGINS
