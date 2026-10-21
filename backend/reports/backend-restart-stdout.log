@@ -56,3 +56,14 @@ INFO:     127.0.0.1:60591 - "GET /api/teams HTTP/1.1" 200 OK
 INFO:     127.0.0.1:60614 - "GET /api/tournaments HTTP/1.1" 200 OK
 INFO:     127.0.0.1:60640 - "GET /api/tournaments HTTP/1.1" 200 OK
 INFO:     127.0.0.1:60640 - "GET /api/tournaments HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:60806 - "GET /api/tournaments HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61677 - "GET /api/teams HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61678 - "GET /api/players HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61677 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61678 - "GET /api/matches HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61677 - "GET /api/tournaments HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61710 - "GET /api/teams HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61711 - "GET /api/players HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61710 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61711 - "GET /api/matches HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61710 - "GET /api/tournaments HTTP/1.1" 200 OK
