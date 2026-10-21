@@ -1,5 +1,9 @@
 # CS2 ARENA
 
+[Открыть сайт CS2 ARENA](https://bissembayevd.github.io/React/)
+
+GitHub Pages размещает только frontend. Для данных и сохранения игроков требуется отдельно опубликованный FastAPI backend, заданный через переменную репозитория `VITE_API_BASE_URL`.
+
 An existing React + Vite university project with a separate Python FastAPI backend. The frontend uses JavaScript/JSX, React Router, Lucide, and plain CSS. The existing dark/lime design and routes are preserved.
 
 **All esports content is fictional demo data**, including player identities, rosters, availability, ratings, rankings, scores, dates, and prize pools.

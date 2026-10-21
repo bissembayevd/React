@@ -1,8 +1,9 @@
+import { publicAsset } from '../utils/publicAsset';
 import { useState } from 'react';
 import { teamLogoSources, teamInitials } from '../config/teamLogos';
 
 export default function TeamLogo({ team, className = '', loading = 'lazy' }) {
-  const sources = teamLogoSources(team);
+  const sources = teamLogoSources(team).map((path) => publicAsset(path));
   const key = JSON.stringify([team?.id, sources]);
   const [failure, setFailure] = useState({ key, index: 0 });
   const index = failure.key === key ? failure.index : 0;
