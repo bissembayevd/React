@@ -14,7 +14,6 @@ export function articleParagraphs(content = '') {
 }
 
 export function articleSummary(summary = '') {
-  // The original seed summaries are also boilerplate, not editorial summaries.
   const stockSummary = /^A fictional (?:team news|transfers|match preview|tournament|analysis) story exploring .+'s journey in the CS2 ARENA demo competition\.$/;
   return stockSummary.test(summary.trim()) ? '' : summary;
 }

@@ -1,4 +1,3 @@
-// All application data comes from FastAPI. Static form choices are not records.
 export const PLAYER_ROLES = ['AWPer', 'Rifler', 'Entry Fragger', 'Support', 'IGL'];
 
 export class ApiError extends Error {

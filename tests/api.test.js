@@ -33,7 +33,6 @@ test('HTTP API list/detail shapes, initial counts and roster relationships are p
 });
 
 test('POST persists in the database, reports conflicts and readable validation errors', async () => {
-  // A stale browser storage object is irrelevant to all HTTP reads/writes.
   Object.defineProperty(globalThis, 'localStorage', { configurable: true, get() { throw new Error('Must not read browser storage'); } });
   try {
     const player = await api.addPlayer(input);

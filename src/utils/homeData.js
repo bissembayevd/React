@@ -1,4 +1,3 @@
-// Derived views only: all records are provided by the existing API.
 export function selectHomeData({ news, matches, teams, tournaments }) {
   const sortedNews = [...news].sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt) || a.id.localeCompare(b.id));
   return {

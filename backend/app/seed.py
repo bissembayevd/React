@@ -42,7 +42,7 @@ def seed_database(session):
                 continue
             record = dict(original)
             if model is models.Team:
-                record.pop('playerIds')  # Derived from the player foreign keys.
+                record.pop('playerIds')
             if model is models.Player:
                 record['nickname_key'] = record['nickname'].casefold()
             session.add(model(**record))

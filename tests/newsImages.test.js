@@ -6,7 +6,6 @@ import { withoutEditionMarker, teamOverviewText, articleParagraphs, articleSumma
 
 test('all 30 news IDs have independent editable filename mappings', () => {
   assert.deepEqual(Object.keys(NEWS_IMAGES), Array.from({ length: 30 }, (_, i) => `news-${String(i + 1).padStart(3, '0')}`));
-  // Assigned filenames are expected after the user supplies their photographs.
   assert.ok(Object.values(NEWS_IMAGES).every((name) => typeof name === 'string'));
 });
 

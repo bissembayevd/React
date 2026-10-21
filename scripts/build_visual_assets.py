@@ -71,7 +71,6 @@ if __name__ == '__main__':
     # Phase 6B owns the neutral question-mark fallback; do not regenerate robots.
     if not (IMAGES / 'player-placeholder.svg').exists():
         raise RuntimeError('Restore the committed question-mark player placeholder.')
-    # Keep Phase 6B's restrained dark fallback intact.
 
     credits = json.loads((IMAGES / 'team-credits.json').read_text(encoding='utf-8'))
     items = ''.join(f'<li><img src="{escape(item["path"])}" alt="{escape(item["name"])} logo"/><div><h2>{escape(item["name"].upper())}</h2><p>Author: {escape(item["author"])}</p><p><a href="{escape(item["source"])}">Source and rights statement</a> · <a href="{escape(item["licenseUrl"])}">{escape(item["license"])}</a></p><p>{escape(item["changes"])}</p></div></li>' for item in credits)
